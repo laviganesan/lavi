@@ -1,0 +1,324 @@
+.topHeader {
+  background-color: #ff0000;
+}
+
+.topHeader .navbaritems:hover {
+  font-weight: bold;
+}
+
+.topHeader .loginBtn {
+  border-radius: 5px;
+}
+
+.top-section {
+  background-color: #ff0000;
+  padding: 5rem 0;
+}
+
+.top-section .text-col {
+  margin: auto;
+}
+
+.top-section .text-col .top-form {
+  margin-top: 2rem;
+}
+
+.top-section .text-col .top-form .top-label {
+  position: relative;
+}
+
+.top-section .text-col .top-form .top-label .searchBox {
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+}
+
+.top-section .text-col .top-form .top-label .comButton {
+  border: none;
+  background-color: white;
+  position: absolute;
+}
+
+.top-section .text-col .top-form .checkButton {
+  background-color: #2e2e2e;
+  border: none;
+  margin-left: 55px;
+}
+
+.section-2-heading {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.sec-2-text {
+  text-align: left;
+}
+
+.sec-2-text .sec-2-h6 {
+  color: #2e2e2e;
+  margin-left: 4rem;
+  margin-top: -30px;
+}
+
+.sec-2-text .sec-2-para {
+  color: #555555;
+  margin-left: 4rem;
+  margin-top: 10px;
+}
+
+.section3 {
+  margin-top: 4rem;
+}
+
+.section3 .section-3-heading {
+  text-align: center;
+}
+
+.section3 .section-3-heading .sec3H3 {
+  color: #2e2e2e;
+}
+
+.section3 .section-3-heading .sec3Hpara {
+  color: #555555;
+}
+
+.section3 .Card1 {
+  background-color: #93a5ff;
+}
+
+.section3 .card2 {
+  background-color: #ff0000;
+}
+
+.section3 .card-title {
+  color: #ffffff;
+}
+
+.section3 .headerText {
+  text-align: center;
+}
+
+.section3 .cardimgtop {
+  max-width: 14%;
+  padding-top: 16px;
+  padding-left: 18px;
+}
+
+.section3 .cardtextcolor {
+  font-size: small;
+  color: #ffffff;
+}
+
+.section3 .text-right {
+  text-align: right;
+}
+
+.section3 .text-right .btn1 {
+  color: #93a5ff;
+  font-size: small;
+}
+
+.section3 .text-right .btn2 {
+  color: #ff0000;
+  font-size: small;
+}
+
+.section-4-heading {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.section-4-heading .sec4H3 {
+  color: #2e2e2e;
+}
+
+.section-4-heading .sec4Hpara {
+  color: #555555;
+}
+
+.cardsection {
+  width: 15rem;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.cardsection .smallCardimg {
+  padding: 0;
+  margin: auto;
+  margin-top: 3rem;
+  max-width: 25%;
+}
+
+.cardsection .smallcrdTitle {
+  color: #2e2e2e;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -10px;
+}
+
+.cardsection .smallcrdPara {
+  color: #2e2e2e;
+  font-size: 15px;
+}
+
+.cardsection .cardButtons {
+  background-color: #ff0000;
+  color: white;
+  font-size: small;
+}
+
+.section-5-heading {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.section-5-heading .sec5H3 {
+  color: #2e2e2e;
+}
+
+.section-5-heading .sec5Hpara {
+  color: #555555;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.section-6-heading {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.section-6-heading .sec6H3 {
+  color: #2e2e2e;
+}
+
+.section-6-heading .sec6Hpara {
+  color: #555555;
+}
+
+.sec6Img {
+  text-align: center;
+}
+
+.sec6Img .sec6ImgCol {
+  padding: 15px;
+}
+
+.sec6Img .sec6ImgCol .section6Img {
+  width: 150px;
+}
+
+.trailRow {
+  text-align: center;
+}
+
+.trailRow .Trial-btn {
+  background-color: #ff0000;
+  color: white;
+}
+
+.section-7-heading {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.section-7-heading .sec7H3 {
+  color: #2e2e2e;
+}
+
+.section-7-heading .sec7Hpara {
+  color: #555555;
+}
+
+.sec7Col {
+  padding: 50px;
+  text-align: center;
+}
+
+.sec7Col .sec7Img {
+  max-width: 35%;
+}
+
+.sec7Col .sec7h6 {
+  color: #2e2e2e;
+  margin-top: 20px;
+}
+
+.sec7Col .sec7para {
+  font-size: small;
+  color: #555555;
+}
+
+.section-8-heading {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.section-8-heading .sec8H3 {
+  color: #2e2e2e;
+}
+
+.section-8-heading .sec8Hpara {
+  color: #555555;
+}
+
+.sec8ImgRow {
+  text-align: center;
+}
+
+.sec8ImgRow .colckimgCol {
+  padding: 50px;
+}
+
+.sec8ImgRow .colckimgCol .clockH6 {
+  margin: 20px 0;
+  color: #2e2e2e;
+}
+
+.sec8ImgRow .colckimgCol .clockPara {
+  font-size: small;
+  color: #555555;
+}
+
+.sec8ImgRow .colckimgCol .clockimg {
+  padding: 15px;
+  background-color: #ff0000;
+  border-radius: 90px;
+  max-width: 20%;
+}
+
+footer {
+  margin-top: 4rem;
+  padding: 6rem 0;
+  background-color: #ff0000;
+}
+
+footer .footerCol {
+  text-align: justify;
+}
+
+footer .footerCol .list-group {
+  list-style: none;
+  line-height: 2;
+}
+
+footer .footerCol .footerImg {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+footer .footerCol .footerLogos {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  float: right;
+}
+
+footer .footerRow2 {
+  padding-top: 4rem;
+}
+/*# sourceMappingURL=aaa.css.map */

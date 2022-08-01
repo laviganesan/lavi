@@ -1,0 +1,274 @@
+//topHeader
+.topHeader {
+  background-color: #ff0000;
+
+  .navbaritems:hover {
+    font-weight: bold;
+  }
+  .loginBtn {
+    border-radius: 5px;
+  }
+}
+
+//section 1
+.top-section {
+  background-color: #ff0000;
+  padding: 5rem 0;
+  .text-col {
+    margin: auto;
+    .top-form {
+      margin-top: 2rem;
+      .top-label {
+        position: relative;
+        .searchBox {
+          border-top: none;
+          border-left: none;
+          border-bottom: none;
+        }
+        .comButton {
+          border: none;
+          background-color: white;
+          position: absolute;
+        }
+      }
+      .checkButton {
+        background-color: #2e2e2e;
+        border: none;
+        margin-left: 55px;
+      }
+    }
+  }
+}
+
+//section-2
+.section-2-heading {
+  text-align: center;
+  margin-top: 4rem;
+}
+.sec-2-text {
+  text-align: left;
+  .sec-2-h6 {
+    color: #2e2e2e;
+    margin-left: 4rem;
+    margin-top: -30px;
+  }
+  .sec-2-para {
+    color: #555555;
+    margin-left: 4rem;
+    margin-top: 10px;
+  }
+}
+//section 3
+.section3 {
+  margin-top: 4rem;
+  .section-3-heading {
+    text-align: center;
+    .sec3H3 {
+      color: #2e2e2e;
+    }
+    .sec3Hpara {
+      color: #555555;
+    }
+  }
+  .Card1 {
+    background-color: #93a5ff;
+  }
+  .card2 {
+    background-color: #ff0000;
+  }
+  .card-title {
+    color: #ffffff;
+  }
+  .headerText {
+    text-align: center;
+  }
+  .cardimgtop {
+    max-width: 14%;
+    padding-top: 16px;
+    padding-left: 18px;
+  }
+  .cardtextcolor {
+    font-size: small;
+    color: #ffffff;
+  }
+  .text-right {
+    text-align: right;
+    .btn1 {
+      color: #93a5ff;
+      font-size: small;
+    }
+    .btn2 {
+      color: #ff0000;
+      font-size: small;
+    }
+  }
+}
+//section 4
+.section-4-heading {
+  margin-top: 4rem;
+  text-align: center;
+  .sec4H3 {
+    color: #2e2e2e;
+  }
+  .sec4Hpara {
+    color: #555555;
+  }
+}
+.cardsection {
+  width: 15rem;
+  margin: auto;
+  margin-top: 2rem;
+  .smallCardimg {
+    padding: 0;
+    margin: auto;
+    margin-top: 3rem;
+    max-width: 25%;
+  }
+  .smallcrdTitle {
+    color: #2e2e2e;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -10px;
+  }
+  .smallcrdPara {
+    color: #2e2e2e;
+    font-size: 15px;
+  }
+  .cardButtons {
+    background-color: #ff0000;
+    color: white;
+    font-size: small;
+    text-align: center;
+  }
+}
+
+//section 5
+.section-5-heading {
+  margin-top: 4rem;
+  text-align: center;
+  .sec5H3 {
+    color: #2e2e2e;
+  }
+  .sec5Hpara {
+    color: #555555;
+  }
+}
+.text-left {
+  text-align: left;
+}
+//section 6
+.section-6-heading {
+  margin-top: 4rem;
+  text-align: center;
+  .sec6H3 {
+    color: #2e2e2e;
+  }
+  .sec6Hpara {
+    color: #555555;
+  }
+}
+.sec6Img {
+  text-align: center;
+  .sec6ImgCol {
+    padding: 15px;
+    .section6Img {
+      width: 150px;
+    }
+  }
+}
+.trailRow {
+  text-align: center;
+  .Trial-btn {
+    background-color: #ff0000;
+    color: white;
+  }
+}
+
+//section 7
+.section-7-heading {
+  margin-top: 4rem;
+  text-align: center;
+  .sec7H3 {
+    color: #2e2e2e;
+  }
+  .sec7Hpara {
+    color: #555555;
+  }
+}
+.sec7Col {
+  padding: 50px;
+  text-align: center;
+  .sec7Img {
+    max-width: 35%;
+  }
+  .sec7h6 {
+    color: #2e2e2e;
+    margin-top: 20px;
+  }
+  .sec7para {
+    font-size: small;
+    color: #555555;
+  }
+}
+//section 8
+.section-8-heading {
+  margin-top: 4rem;
+  text-align: center;
+  .sec8H3 {
+    color: #2e2e2e;
+  }
+  .sec8Hpara {
+    color: #555555;
+  }
+}
+.sec8ImgRow {
+  text-align: center;
+  .colckimgCol {
+    padding: 50px;
+    .clockH6 {
+      margin: 20px 0;
+      color: #2e2e2e;
+    }
+    .clockPara {
+      font-size: small;
+      color: #555555;
+    }
+    .clockimg {
+      padding: 15px;
+      background-color: #ff0000;
+      border-radius: 90px;
+      max-width: 100%;
+    }
+  }
+}
+//footer section
+footer {
+  margin-top: 4rem;
+  padding: 6rem 0;
+  background-color: #ff0000;
+  .footerCol {
+    text-align: justify;
+    .list-group {
+      list-style: none;
+      line-height: 2;
+    }
+    .footerImg {
+      flex-direction: row;
+    }
+    .footerLogos {
+      flex-direction: row;
+      float: right;
+    }
+  }
+  .footerRow2 {
+    padding-top: 4rem;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .section-7-col {
+    margin-top: -40px;
+  }
+  .section-8-heading {
+    margin-top: 0px;
+  }
+}
