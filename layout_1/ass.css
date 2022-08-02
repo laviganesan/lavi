@@ -1,0 +1,39 @@
+.great_entertainment1 {
+  margin-top: 1rem;
+}
+
+.section2 {
+  margin-top: 3rem;
+}
+
+.section2 .chef_image {
+  text-align: center;
+}
+
+.section3 {
+  margin-top: 4rem;
+}
+
+.section3 .organic_food {
+  margin-top: 2rem;
+}
+
+.section3 .organic_food .organic-food-para {
+  opacity: 0.1;
+}
+
+@media only screen and (max-width: 767px) {
+  .great_entertainment {
+    margin-top: 2rem;
+  }
+  .great_entertainment1 {
+    margin-top: 2rem;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .section1 .img-fluid {
+    height: 100%;
+  }
+}
+/*# sourceMappingURL=ass.css.map */
